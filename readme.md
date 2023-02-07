@@ -8,7 +8,7 @@ Git logo by Jason Long - http://git-scm.com/downloads/logos, license:[CC BY 3.0]
 ___
 ___
 ## Содержание
-1. [Что такое GIT?](/what%20is%20gid.md)
+1. [Что такое GIT?](/what%20is%20git.md)
 2. [Устанновка и настойка GIT для Windws](/installing%20git%20for%20windows.md)
 3. [Основные команды GIT](/comands%20git.md)
 4. [Git add](/git%20add.md)
